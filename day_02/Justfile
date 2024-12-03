@@ -1,2 +1,5 @@
 day_02_clj:
 	clj -M -i day_02.clj -m day_02
+
+day_02_p2_clj:
+	clj -M -i day_02_p2.clj -m day_02_p2
