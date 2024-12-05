@@ -1,6 +1,10 @@
 > My attempt at solving [Advent of code 24](https://adventofcode.com/2024/).
 ---
-- [x] [Day 01](https://adventofcode.com/2024/day/1): Historian Hysteria
-- [x] [Day 02](https://adventofcode.com/2024/day/2): Red-Nosed Reports
-- [x] [Day 03](https://adventofcode.com/2024/day/3): Mull It Over
-- [x] [Day 04](https://adventofcode.com/2024/day/4): Ceres Search
+| Status | Day    | Problem Name         | Languages     |
+|--------|--------|----------------------|---------------|
+|  ✔    | Day 01 | Historian Hysteria   | Java, Clojure |
+|  ✔    | Day 02 | Red-Nosed Reports    | Java, Clojure |
+|  ✔    | Day 03 | Mull It Over         | Clojure       |
+|  ✔    | Day 04 | Ceres Search         | C             |
+|  ✔    | Day 05 | Print Queue          | C++           |
+
