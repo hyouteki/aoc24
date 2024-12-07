@@ -7,4 +7,4 @@
 | ✔ ✔  | Day 03 | Mull It Over         | Clojure       |
 | ✔ ✔  | Day 04 | Ceres Search         | C             |
 | ✔ ✔  | Day 05 | Print Queue          | C++           |
-| ✔ ✗  | Day 06 | Guard Gallivant      | C             |
+| ✔ ❌ | Day 06 | Guard Gallivant      | C             |
